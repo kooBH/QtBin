@@ -1,2 +1,2 @@
 # QtBin
-Binary files for QtFramework build in Windows
+Binary files and include files for QtFramework build in Windows.    

@@ -1,0 +1,18 @@
+# Visual Stduio
+
+*.vs
+*.vcxproj
+*.filters
+*.sln
+*.dir
+RelWithDebInfo
+Release
+Debug
+x64
+
+
+# CMake
+CMakeCache.txt
+CMakeFiles
+*.cmake
+

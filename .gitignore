@@ -1,5 +1,4 @@
 # Visual Stduio
-
 *.vs
 *.vcxproj
 *.filters
@@ -9,6 +8,8 @@ RelWithDebInfo
 Release
 Debug
 x64
+*.user
+*.exe
 
 
 # CMake

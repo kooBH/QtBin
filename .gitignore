@@ -17,3 +17,5 @@ CMakeCache.txt
 CMakeFiles
 *.cmake
 
+# temp
+tmp
